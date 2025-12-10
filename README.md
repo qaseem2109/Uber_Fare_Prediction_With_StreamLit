@@ -1,5 +1,4 @@
-# Uber_Fare_Prediction_With_StreamLit
-Uber Fare Prediction using Machine Learning. Exploratory Data Analysis, feature engineering, and multiple regression models deployed through a Streamlit web application.
+
 # Uber Fare Prediction using Machine Learning
 
 This project predicts **Uber trip fares** based on historical trip data using a combination of **machine learning algorithms**, feature engineering techniques, and a fully interactive **Streamlit web application**.  
@@ -22,7 +21,6 @@ The objective is to build an end-to-end ML pipeline — from data exploration an
 - Decision Tree Regressor  
 - K-Nearest Neighbors (KNN)  
 - Gradient Boosting  
-- XGBoost (if installed)
 
 Model comparison is provided through:
 - RMSE (Root Mean Squared Error)  
@@ -53,7 +51,6 @@ Uber-Fare-Prediction/
 │── utils.py                   # Helper functions (distance calculation etc.)
 │── uber.csv                   # Dataset
 │── model.pkl                  # Trained ML model (ignored if large)
-│── requirements.txt           # Dependencies
 │── README.md                  # Project documentation
 ```
 
@@ -205,5 +202,5 @@ This project is licensed under the MIT License.
 For inquiries or collaboration:
 
 **Muhammad Qaseem**  
-Email: add your email here  
-GitHub: https://github.com/yourusername
+Email: qaseem2109@gmail.com 
+GitHub: https://github.com/qaseem2109
